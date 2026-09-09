@@ -1,3 +1,3 @@
 ### Leaders
-* [Leader One](mailto:leader.email@owasp.org)
-* [Leader Two](mailto:leader.email@owasp.org)
+* [Rupa Devi](mailto:rupa.devi@owasp.org)
+* [Abhilash Singh](mailto:abhilash.singh@owasp.org)
